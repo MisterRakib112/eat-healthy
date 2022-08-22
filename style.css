@@ -44,6 +44,7 @@ p{
 .about{
     background-image: url(./images/shapes/7.png);
     background-repeat: no-repeat;
+    background-size: cover;
 }
 .about .half-width img{
     width: 50%;
