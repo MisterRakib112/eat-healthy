@@ -1,0 +1,81 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+}
+.flexible-container{
+    display: flex;
+    margin-bottom: 100px;
+}
+h1{
+    font-size: 50px;
+    color: #575757;
+    line-height: 20pt;
+}
+h2{
+    font-size: 30px;
+    color: #575757;
+}
+p{
+    color: dimgray;
+    margin-bottom: 50px;
+}
+.orangered{
+
+    color: orange;
+}
+.half-width{
+    width: 40%;
+    margin: 5%;
+}
+.food-network{
+    margin-top: 180px;
+}
+.half-width img{
+    width: 100%;
+}
+.link-btn{
+    text-decoration: none;
+    color: white;
+    padding: 15px 30px;
+    background-image: linear-gradient(orange, tomato);
+    border-radius: 25px;
+    
+}
+.about{
+    background-image: url(./images/shapes/7.png);
+    background-repeat: no-repeat;
+}
+.about .half-width img{
+    width: 50%;
+    margin-left: 10%;
+}
+.recipies-title{
+    text-align: center;
+}
+.recipie-item{
+    border-radius: 20px;
+    padding: 30px 30px 0px;
+    box-shadow: 10px 10px 40px gray;
+}
+.social{
+    box-shadow: 10px 10px 40px gray;
+    width: 90%;
+    margin-left: 5%;
+    border-radius: 10px;
+}
+.social h1{
+    color: black;
+}
+.social p{
+    color: black;
+}
+.social div{
+    width: 25%;
+    margin-left: 8%;
+    padding: 20px 0px;
+}
+footer{
+    background-color: black;
+    padding: 20px 0px;
+    text-align: center;
+}
